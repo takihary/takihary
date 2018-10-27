@@ -1,0 +1,18 @@
+Author:Tenny Akihary
+Class: CSC 310
+Date: 26 October 2018
+Project: Project 1
+Purpose: 
+i.  (15 Points) Implement Radix Sort on [35, 53, 55, 33, 52, 32, 25]. Note that your program should use Queue
+ii. (25 Points) Implement a program that can input an expression in postfix notation and output its value [Hint: use a Stack]
+iii.(5 Points) Create you Github account and upload you source code files and READ file. Add Github URL on Report
+
+INSTRUCTIONS
+1.) Go to the Tenny_Akihary-Project_1.py file and run it via PyCharm
+2.) Go to the "Run" tab at the top left of the screen
+3.) Click on "Run" that has a green play button next to it (shortcut Shift + F10)
+4.) In the Python Console, at the bottom of the screen by default, you'll see the array [35, 53, 55, 33,52, 32, 25] sorted via Radix Sort
+5.) The Console will then promt you to type in an expression that is in postfix notation
+6.) Hit enter and view results
+
+Thank you for using my program!
